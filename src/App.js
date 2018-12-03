@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import DATA from "./MOCK_DATA";
+import {DATA} from "./MOCK_DATA";
 import {TABLE_CONFIG} from "./constants";
 import "./App.css";
 import TableComponent from "./TableComponent";

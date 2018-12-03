@@ -2,6 +2,8 @@ import React, {Component} from "react"
 
 import PropTypes from 'prop-types'
 
+import './TableComponent.css'
+
 class TableComponent extends Component {
 
     static propTypes = {

@@ -1,5 +1,5 @@
 
-var DATA  = [
+export const DATA  = [
 {"id":"f89df63c-4056-46fc-9db0-b1608e8ec234","first_name":"Erinn","last_name":"Fitzsymons"},
 {"id":"7e71f4b1-c311-4e0e-9512-fd9d41badeb1","first_name":"Ursuline","last_name":"Pittel"},
 {"id":"89689e22-f1cb-43b8-98e7-a8e9702d9c65","first_name":"Morgen","last_name":"Valance"},
@@ -101,4 +101,3 @@ var DATA  = [
 {"id":"c9e5add5-15a4-4aaa-9dc8-2843ab8d44b9","first_name":"Lezley","last_name":"Darwood"},
 {"id":"d560e65d-de7c-45c4-96eb-239b4028ee28","first_name":"Lammond","last_name":"Crudgington"}]
 
-export default DATA;
